@@ -1,0 +1,43 @@
+html{
+  background-color:grey;
+}
+@media(max-width:100px)html{
+  font-size:12px;
+}
+a{
+  color:blue;
+}
+#navbar{
+  position:fixed;
+  top:0vw;
+  z-index:1;
+  font-size:1.3vw;
+  background-color:white;
+}
+#Python-Home{
+  position:absolute;
+  left:20vw;
+}
+#Python-Overview{
+  position:absolute;
+  left:20vw;
+  top:15vw;
+}
+#Python-Environment_Setup{
+   position:absolute;
+  left:20vw;
+  top:40vw;
+}
+#Basic_Syntax{
+  position:absolute;
+  left:20vw;
+  top:48vw;
+}
+#Variable_Types{
+  position:absolute;
+  left:20vw;
+  top:68vw;
+}
+hr{
+  width:250px;
+}
